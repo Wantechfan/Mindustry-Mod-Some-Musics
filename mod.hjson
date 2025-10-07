@@ -2,8 +2,8 @@
 	"name": "Mindustry: Some Musics",
 	"displayName": "Some Musics",
 	"author": "WantechFan",
-	"description": "Changes every single musics ingame with my favorite ones except boss1 and 2",
-	"version": 1.0,
+	"description": "Replaces every single music ingame with my favorite ones except boss1 and 2.",
+	"version": 1.1,
 	"hidden": false,
 	"minGameVersion": 147
 }
