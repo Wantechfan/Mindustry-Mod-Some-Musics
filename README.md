@@ -15,3 +15,4 @@ Replaces some musics in game except boss1 and boss2.
 12. boss2 = Boss2 (by Anuke)
 13. fine = Cloud 9 (by Itro & Tobu)
 14. editor = Aria Math (by C418)
+Mod made by WantechFan.
