@@ -1,5 +1,5 @@
 # Mindustry-Mod-Some-Musics
-Replaces some musics in game except boss1 and boss2.
+Replaces some musics in game except boss1 and boss2. If you like it, don't forget to leave a star on this repository.
 # List of Musics That Changed
 1. menu = Kerosene Funk (by Crvvdy)
 2. game1 = Symbolism (by Electro-Light)
