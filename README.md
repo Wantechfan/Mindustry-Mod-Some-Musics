@@ -15,4 +15,5 @@ Replaces some musics in game except boss1 and boss2. If you like it, don't forge
 12. boss2 = Boss2 (by Anuke)
 13. fine = Cloud 9 (by Itro & Tobu)
 14. editor = Aria Math (by C418)
+
 Any feedback? Say it here: https://discord.com/channels/391020510269669376/1187241575525404692/threads/1428283291357810800
