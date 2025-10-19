@@ -1,5 +1,5 @@
 # Mindustry-Mod-Some-Musics
-Replaces some musics in game except boss1 and boss2. If you like it, don't forget to leave a star on this repository.
+Replaces some musics in game except boss1. If you like it, don't forget to leave a star on this repository.
 # List of Musics That Changed
 1. menu = Kerosene Funk (by Crvvdy)
 2. game1 = Symbolism (by Electro-Light)
@@ -12,7 +12,7 @@ Replaces some musics in game except boss1 and boss2. If you like it, don't forge
 9. game8 = Funk Universo (by Irokz)
 10. game9 = Sky High (by Elektronomia)
 11. boss1 = Boss1 (by Anuke)
-12. boss2 = Boss2 (by Anuke)
+12. boss2 = Rush E (by Sheet Music Boss)
 13. fine = Cloud 9 (by Itro & Tobu)
 14. editor = Aria Math (by C418)
 
