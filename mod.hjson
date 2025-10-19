@@ -2,7 +2,7 @@ name: "WantechFan's-cool-musics"
 displayName: "Cool Musics"
 author: "WantechFan"
 description: "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-version: "1.1"
+version: "1.2.2"
 minGameVersion: "146"
 hidden: true
 subtitle: "Some musics."
