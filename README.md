@@ -10,7 +10,7 @@ Replaces some musics in game except boss1. If you like it, don't forget to leave
 7. game6 = Sweet Self Satisfaction (by Roccow)
 8. game7 = Blah (by Nomi)
 9. game8 = Funk Universo (by Irokz)
-10. game9 = Sky High (by Elektronomia)
+10. game9 = Sweden C&C Remix (Original by C418, remix by MrSuicideSheep)
 11. boss1 = Paranoia (by Scammacist)
 12. boss2 = Rush E (by Andrew Wrangell)
 13. fine = Cloud 9 (by Itro & Tobu)
