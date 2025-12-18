@@ -11,7 +11,7 @@ Replaces some musics in game except boss1. If you like it, don't forget to leave
 8. game7 = Blah (by Nomi)
 9. game8 = Funk Universo (by Irokz)
 10. game9 = Sweden C&C Remix (Original by C418, remix by MrSuicideSheep)
-11. boss1 = Paranoia (by Scammacist)
+11. boss1 = Paranoia (by Kentenshi)
 12. boss2 = Rush E (by Andrew Wrangell)
 13. fine = Cloud 9 (by Itro & Tobu)
 14. editor = Aria Math (by C418)
