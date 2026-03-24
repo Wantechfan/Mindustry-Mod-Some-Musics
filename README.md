@@ -8,7 +8,7 @@ Replaces some musics in game except boss1. If you like it, don't forget to leave
 5. game4 = Kerosene (by Crystal Castles)
 6. game5 = Memory Reboot (by VØJ)
 7. game6 = Sweet Self Satisfaction (by Roccow)
-8. game7 = Dreiton in Piano (originally made by Beniegenie, Recreated by me)
+8. game7 = Dreiton in Piano (originally made by C418, pianized by Beniegenie, and recreated by me)
 9. game8 = Funk Universo (by Irokz)
 10. game9 = Sweden C&C Remix (Original by C418, remix by MrSuicideSheep)
 11. boss1 = Paranoia (by Kentenshi)
